@@ -1,10 +1,10 @@
-O chatbot deve ter uma interface amigável e intuitiva, com opções de interação claras e bem organizadas.
-Deve ser fácil para os alunos encontrar e acessar o chatbot na homepage do Piaget.
-O chatbot deve ter capacidade de reconhecimento de voz para oferecer uma experiência mais acessível.
-Deve ser possível personalizar as configurações do chatbot, como preferências de idioma e notificações.
-O chatbot deve ser capaz de manter o histórico de conversas para facilitar o acompanhamento das interações anteriores.
-Deve ser possível compartilhar arquivos e links relevantes durante a conversa com o chatbot.
-O chatbot deve ter uma resposta rápida e precisa para garantir uma experiência fluida para os alunos.
-Deve ser fácil para os alunos identificar quando estão interagindo com um humano ou com o chatbot.
-Deve haver opções de feedback visíveis para os alunos, para que possam fornecer comentários sobre a experiência com o chatbot.
-O chatbot deve ser capaz de se adaptar ao estilo de comunicação dos alunos, usando linguagem natural e compreendendo gírias e termos informais.
+- O chatbot deve ter uma interface amigável e intuitiva, com opções de interação claras e bem organizadas.
+- Deve ser fácil para os alunos encontrar e acessar o chatbot na homepage do Piaget.
+- O chatbot deve ter capacidade de reconhecimento de voz para oferecer uma experiência mais acessível.
+- Deve ser possível personalizar as configurações do chatbot, como preferências de idioma e notificações.
+- O chatbot deve ser capaz de manter o histórico de conversas para facilitar o acompanhamento das interações anteriores.
+- Deve ser possível compartilhar arquivos e links relevantes durante a conversa com o chatbot.
+- O chatbot deve ter uma resposta rápida e precisa para garantir uma experiência fluida para os alunos.
+- Deve ser fácil para os alunos identificar quando estão interagindo com um humano ou com o chatbot.
+- Deve haver opções de feedback visíveis para os alunos, para que possam fornecer comentários sobre a experiência com o chatbot.
+- O chatbot deve ser capaz de se adaptar ao estilo de comunicação dos alunos, usando linguagem natural e compreendendo gírias e termos informais.
