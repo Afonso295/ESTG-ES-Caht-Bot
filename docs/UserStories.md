@@ -1,0 +1,10 @@
+Como aluno do Piaget, quero poder acessar o chatbot na homepage para obter ajuda e suporte em diversas áreas acadêmicas.
+Como aluno, quero que o chatbot seja capaz de responder às minhas dúvidas sobre matérias específicas, como matemática, ciências, história, entre outras.
+Como aluno, quero poder receber lembretes de prazos de entrega de trabalhos e datas de provas pelo chatbot.
+Como aluno, quero poder solicitar informações sobre eventos e atividades extracurriculares disponíveis na instituição através do chatbot.
+Como aluno, quero que o chatbot possa me fornecer dicas de estudo e técnicas de aprendizagem.
+Como aluno, quero poder agendar horários de atendimento com tutores ou professores através do chatbot.
+Como aluno, quero que o chatbot seja capaz de direcionar minhas dúvidas mais complexas para um humano, se necessário.
+Como aluno, quero que o chatbot possa me ajudar a encontrar recursos de estudo, como livros, artigos e vídeos relevantes para meu curso.
+Como aluno, quero poder receber feedbacks sobre meu desempenho acadêmico através do chatbot.
+Como aluno, quero que o chatbot seja capaz de entender e responder em diferentes idiomas, para atender à diversidade de alunos da instituição.
