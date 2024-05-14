@@ -1,6 +1,5 @@
 - O chatbot deve ter uma interface amigável e intuitiva, com opções de interação claras e bem organizadas.
 - Deve ser fácil para os alunos encontrar e acessar o chatbot na homepage do Piaget.
-- O chatbot deve ter capacidade de reconhecimento de voz para oferecer uma experiência mais acessível.
 - Deve ser possível personalizar as configurações do chatbot, como preferências de idioma e notificações.
 - O chatbot deve ser capaz de manter o histórico de conversas para facilitar o acompanhamento das interações anteriores.
 - Deve ser possível compartilhar arquivos e links relevantes durante a conversa com o chatbot.
